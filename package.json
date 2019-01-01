@@ -1,0 +1,22 @@
+{
+  "name": "fullwebsite",
+  "version": "1.0.0",
+  "description": "Mean stack full website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Khuram",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1",
+    "morgan": "^1.9.1",
+    "save": "^2.3.3"
+  }
+}
